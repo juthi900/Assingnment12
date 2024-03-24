@@ -1,0 +1,5 @@
+Average values for the parameters:
+ParameterName
+RH_PT1H_AVG    87.901387
+TA_PT1H_AVG     2.740029
+WS_PT1H_AVG     3.900717
